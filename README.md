@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 ![One of my drawings](https://zanza-creation.com/medias/2022/01/bandeau-orient-desktop.jpg)
 -->
 
-![One of my drawings to go with the avatar](https://zanza-creation.com/medias/2022/01/bandeau-levant-tablet.jpg)
+![One of my drawings to go with the avatar](https://zanza-creation.com/medias/2022/01/bandeau-levant-desktop.jpg)
