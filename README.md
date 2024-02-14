@@ -14,5 +14,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Have a look on my website https://zanza-creation.com
 
 - ⚡ Fun fact: This is my first markdown file, I'm learning everyday.
-
+<!--
 ![One of my drawings](https://zanza-creation.com/medias/2022/01/bandeau-orient-desktop.jpg)
+-->
+
+![One of my drawings to go with the avatar](https://zanza-creation.com/medias/2022/01/bandeau-levant-tablet.jpg)
