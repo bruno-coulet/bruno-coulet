@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on software development or AI
 - 🤔 I’m looking for a company near Marseille for a forday-release training contract .
 - 💬 Ask me about the weather, for the rest I am not sure yet
-- 📫 How to reach me: Have a look on my website https://zanza-creation.com
+- 📫 Have a look on my website https://zanza-creation.com
 
 - ⚡ Fun fact: This is my first markdown file, I'm learning everyday.
 <!--
