@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for a company near Marseille for a forday-release training contract .
 - 💬 Ask me about the weather, for the rest I am not sure yet
 - 📫 Have a look on my website https://zanza-creation.com
+- 🔎 You are curious and yant ot know more about me : https://bruno-coulet.my.canva.site/
 
 - ⚡ Fun fact: This is my first markdown file, I'm learning everyday.
 <!--
