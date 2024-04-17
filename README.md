@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on a sudoku solver project with two friends from the plateforme in Marseille, France.
+- 🔭 I’m currently working on a data analyse project with two friends from the plateforme in Marseille, France.
 - 🌱 I’m currently learning OOP, Python and SQL, github, bash, Linux ...
 - 👯 I’m looking to collaborate on Data analysis and AI
 - 🤔 I’m looking for a company near Marseille for a forday-release training contract .
