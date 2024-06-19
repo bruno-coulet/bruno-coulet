@@ -6,8 +6,8 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on the data analyse of a netflix database with two friends from the plateforme in Marseille, France.
-- 🌱 I’m currently learning OOP, Python, C# and SQL, github, bash, Linux ...
+- 🔭 I’m currently working on the data analyse of a Palworld database with two friends from the plateforme in Marseille, France.
+- 🌱 I’m currently learning OOP, Python, SQL, github, bash ...
 - 👯 I’m looking to collaborate on Data analysis and AI
 - 🤔 I’m looking for a company near Marseille for a forday-release training contract .
 - 💬 Ask me about the weather, for the rest I am not sure yet
