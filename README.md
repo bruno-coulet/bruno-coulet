@@ -6,11 +6,9 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on a Hanoi tower game with two friends from the plateforme in Marseille, France.
-- 🌱 I’m currently learning OOP, Python, SQL, github, bash, Machine Learning, Power BI ...
+- 🔭 I’m currently working for RTM, the public transportation company of Marseille area, France.
+- 🌱 I’m learning OOP, Python, SQL, github, bash, Machine Learning, Power BI ...
 - 👯 I’m looking to collaborate on Data analysis and AI
-- 🤔 I’m looking for a company near Marseille for a forday-release training contract .
-- 💬 Ask me about the weather, for the rest I am not sure yet
 - 📫 Have a look on my website https://zanza-creation.com
 - 🔎 You are curious and yant ot know more about me : https://bruno-coulet.my.canva.site/
 
