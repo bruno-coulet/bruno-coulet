@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 🌱 I’m learning OOP, Python, SQL, github, bash, Machine Learning, Power BI ...
 - 👯 I’m looking to collaborate on Data analysis and AI
 - 📫 Have a look on my website https://zanza-creation.com
-- 🔎 You are curious and want ot know more about me : https://bruno-coulet.my.canva.site/
+- 🔎 You are curious and want to know more about me : https://bruno-coulet.my.canva.site/
 
 - ⚡ Fun fact: This is my first markdown file, I'm learning everyday.
 <!--
