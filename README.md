@@ -6,9 +6,6 @@
 Here are some ideas to get you started:
 -->
 
-
-- **bruno-coulet/bruno-coulet**
-
 🔭 **Currently** Data Scientist @ [RTM](https://www.rtm.fr/) (Marseille public transport)
 
 🌱 **Learning** Machine Learning, Deep Learning, Big Data, Python, SQL, OOP, GitHub, Bash, Power BI
