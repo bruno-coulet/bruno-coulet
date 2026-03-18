@@ -6,15 +6,15 @@
 Here are some ideas to get you started:
 -->
 
-🔭 **Currently** Data Scientist @ [RTM](https://www.rtm.fr/) (Marseille public transport)
+🔭 **Currently :** Data Scientist @ [RTM](https://www.rtm.fr/) (Marseille public transport)
 
-🌱 **Learning** Machine Learning, Deep Learning, Big Data, Python, SQL, OOP, GitHub, Bash, Power BI
+🌱 **Learning :** Machine Learning, Deep Learning, Big Data, Python, SQL, OOP, GitHub, Bash, Power BI
 
-👯 **Open to** Master Data Science / AI opportunities
+👯 **Open to :** Master Data Science / AI opportunities
 
-📫 **Also** Creative maker – [Zanza Creation](https://zanza-creation.com) (table clothing)
+📫 **Also :** Creative maker – [Zanza Creation](https://zanza-creation.com) (table clothing)
 
-🔎 **More** [Portfolio](https://portfolio-bruno-coulet.my.canva.site/)
+🔎 **More :** [Portfolio](https://portfolio-bruno-coulet.my.canva.site/)
 
 
 <!--
