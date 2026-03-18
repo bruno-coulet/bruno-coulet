@@ -6,13 +6,20 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working for RTM, the public transportation company of Marseille area, France.
-- 🌱 I’m learning OOP, Python, SQL, github, bash, Machine Learning, Power BI ...
-- 👯 I’m looking to collaborate on Data analysis and AI
-- 📫 Have a look on my website https://zanza-creation.com
-- 🔎 You are curious and want to know more about me : https://bruno-coulet.my.canva.site/
 
-- ⚡ Fun fact: This is my first markdown file, I'm learning everyday.
+- **bruno-coulet/bruno-coulet**
+
+🔭 **Currently** Data Scientist @ [RTM](https://www.rtm.fr/) (Marseille public transport)
+
+🌱 **Learning** Machine Learning, Deep Learning, Big Data, Python, SQL, OOP, GitHub, Bash, Power BI
+
+👯 **Open to** Master Data Science / AI opportunities
+
+📫 **Also** Creative maker – [Zanza Creation](https://zanza-creation.com) (table clothing)
+
+🔎 **More** [Portfolio](https://portfolio-bruno-coulet.my.canva.site/)
+
+
 <!--
 ![One of my drawings](https://zanza-creation.com/medias/2022/01/bandeau-orient-desktop.jpg)
 -->
